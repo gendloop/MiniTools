@@ -1,0 +1,16 @@
+# vs 
+.vs/
+.user
+
+# build
+[Dd]ebug/
+[Rr]elease/
+
+# general
+.obj
+
+# custom
+.txt
+
+# others
+file/
